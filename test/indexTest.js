@@ -1,3 +1,4 @@
+const { totalBatteries } = require('../index.js');
 require ( './helpers.js' );
 
 const sinon = require( 'sinon' )
